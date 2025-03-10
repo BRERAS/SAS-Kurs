@@ -4,11 +4,11 @@ data _null_;
 run;  
 
 *Ausgabeverzeichnis definieren;
-libname demo "/workspaces/myfolder/SAS-Kurs/Data";
+libname demo "/workspaces/myfolder/SAS-Kurs/Daten";
 
 * CSV Daten imortieren;
 proc import
-    datafile="&WORKSPACE_PATH./SAS-Kurs/Data/cars.csv";
+    datafile="&WORKSPACE_PATH./SAS-Kurs/Daten/cars.csv"
     out=demo.cars dbms=csv replace;
     delimiter=';';
 run;
