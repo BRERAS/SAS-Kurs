@@ -11,4 +11,6 @@ In diesem Repository finden Sie alle Materialien die für diesen Kurs notwendig 
 
 # Hilfe
 
-[Workbench for Learner](https://documentation.sas.com/doc/en/workbenchcdc/v_001/workbenchgs/titlepage.htm?fromDefault=)
+- [Workbench for Learner](https://documentation.sas.com/doc/en/workbenchcdc/v_001/workbenchgs/titlepage.htm?fromDefault=)
+- [Base SAS Procedures](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/proc/titlepage.htm)
+- [SAS/STAT](https://documentation.sas.com/doc/en/statug/15.2/statug_intro_sect001.htm)
