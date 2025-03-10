@@ -1,6 +1,12 @@
 # SAS-Kurs
 In diesem Repository finden Sie alle Materialien die für diesen Kurs notwendig sind.
 
+Führen Sie folgendes Befehl 
+
+git -C "$WORKSPACE" clone https://github.com/sassoftware/sas-viya-workbench-examples.git
+
+in einem Termin-Fenster von SAS Workbench for Learner aus um dieses Repository zu kopieren.
+
 # Folgende Verzeichnisse stehen zur Verfügung:
 
 - Dokumentation
