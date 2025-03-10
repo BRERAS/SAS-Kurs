@@ -3,7 +3,7 @@ In diesem Repository finden Sie alle Materialien die für diesen Kurs notwendig 
 
 Führen Sie folgendes Befehl 
 
-**git -C "$WORKSPACE" clone https&#58;//github.com/BRERAS/SAS-Kurs.git**
+**git -C "$WORKSPACE" clone 'https://github.com/BRERAS/SAS-Kurs.git**
 
 in einem Termin-Fenster von SAS Workbench for Learner aus um dieses Repository zu kopieren.
 
