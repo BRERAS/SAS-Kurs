@@ -4,7 +4,7 @@ In diesem Repository finden Sie alle Materialien die für diesen Kurs notwendig 
 # Folgende Verzeichnisse stehen zur Verfügung:
 
 - Dokumentation
-- Daten
+- [Daten](https://github.com/BRERAS/SAS-Kurs/tree/main/Daten)
 - SAS-Programme
 - Übungsaufgaben
 - Lösungen
