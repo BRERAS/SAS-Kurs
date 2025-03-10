@@ -21,9 +21,13 @@ run;
 proc freq data=demo.cars;
 run;
 
-* Häufigkeitsanalyse nach Marke;
+/*******
+Häufigkeitsanalyse nach Marke
+Keine kumulierten Häufigkeiten
+Ausgabe in die Tabelle demo.carsfreq
+*******/
 proc freq data=demo.cars;
-    tables make / nocum;
+    tables make / nocum out=demo.carsfreq;
 run;
 
 * Kreuztabelle;
