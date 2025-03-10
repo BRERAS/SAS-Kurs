@@ -5,7 +5,7 @@ Führen Sie folgendes Befehl
 
 **git -C "$WORKSPACE" clone ht<span>tps://</span>github.com/BRERAS/SAS-Kurs.git**
 
-in einem Termin-Fenster von SAS Workbench for Learner aus um dieses Repository zu kopieren.
+in einem Terminal-Fenster von SAS Workbench for Learner aus um dieses Repository zu kopieren.
 
 # Folgende Verzeichnisse stehen zur Verfügung:
 
